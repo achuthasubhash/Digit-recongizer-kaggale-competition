@@ -4,4 +4,4 @@
 
 2.Using  Convolutional neural network  classify input image to corresponding class
 
-3.accuracy of model
+3.accuracy of model 99.1%
